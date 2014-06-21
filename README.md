@@ -4,7 +4,9 @@ A proof of concept that images can be displayed progressively. We start by only 
 
 The result is that the image is loaded progressively in 8 iterations since there are 8 bits to a byte. In each iteration 4 bits are sent per pixel (R, G, B, A). Hence a low quality image can be sent in an eighth of the original size of the image which is enhanced by further iterations.
 
-You can see the proof of concept demo at: https://rawgit.com/aaditmshah/progressive-display/master/index.html
+## Demo ##
+
+Go to the releases folder and download the latest release of this proof of concept. Extract the files and then open `index.html` in your web browser. Use the select menu to choose the number of bits per component sent (i.e. the progress level).
 
 ## MIT License ##
 
