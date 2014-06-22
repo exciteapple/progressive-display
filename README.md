@@ -6,7 +6,7 @@ The result is that the image is loaded progressively in 8 iterations since there
 
 ## Demo ##
 
-Go to the [releases folder](https://github.com/aaditmshah/progressive-display/releases) and download the latest release of this proof of concept. Extract the files and then open `index.html` in your web browser. Use the select menu to choose the number of bits per component sent (i.e. the progress level).
+Here's a [live demo](http://aaditmshah.github.io/progressive-display/ "Progressive Display") of the proof of concept online. Use the select menu to choose the number of bits per component sent (i.e. the progress level).
 
 ## MIT License ##
 
